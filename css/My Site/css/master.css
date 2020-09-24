@@ -1,0 +1,185 @@
+
+body {
+  font-family: Montserrat;
+  width: 100%
+}
+
+h1{
+  font-family:Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family:"Montserrat-bold";
+  font-size: 3rem;
+  line-height:1.5;
+
+}
+
+h3 {
+  font-family:"Montserrat-bold";
+  font-size: 1.8rem;
+}
+
+p {
+  color:#8f8f8f;
+}
+
+a {
+  text-decoration: none;
+}
+
+#title {
+  background-color:#ebecf1;
+  Color:black;
+  padding:1% 5%;
+}
+
+.container-fluid {
+  padding: 2% 8% 1%;
+}
+
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: ubuntu;
+  font-size: 5.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 2.0rem;
+  font-family:"Montserrat-light";
+  font-weight: bold;
+}
+
+.navbar {
+padding: 4.5rem 0 4.5rem;
+}
+
+
+.mission {
+  padding-bottom: 5px;
+  font-size: 20px;
+  text-align:center;
+  padding-top: 65px;
+  text-align: center;
+}
+
+.steven {
+  text-align: center;
+  padding-bottom: 65px;
+  padding-left: 100px;
+}
+
+.nav-item {
+  padding: 0px 15px;
+}
+
+
+/* Download Buttons */
+
+.download-button {
+  padding:1%;
+  margin:2% auto;
+}
+
+
+/* title-image */
+
+.field {
+  width: 400px;
+  transform: rotate(90deg);
+  margin:5% auto 5% 27%;
+}
+
+/* feature section */
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding:5%;
+}
+
+.icon {
+  color:black;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color:#acdeaa;
+}
+
+
+/* testimonial section */
+
+
+#testimonials {
+  padding:7% 15%;
+  text-align:center;
+  background-color:#10375c;
+  color:white;
+
+}
+
+#carouselExampleIndicators {
+  text-align: center;
+  margin:5% 10%;
+  width:95%;
+  margin:10px;
+  padding:40px;
+}
+
+.carousel-images {
+  border-radius:50%;
+  width:97%;
+  padding-bottom: 15px;
+}
+
+.testimonial-image {
+  width:60%;
+  margin:20px;
+}
+
+
+#press {
+  background-color: #ebecf1;
+  text-align: center;
+  padding-bottom:3%;
+  text-decoration: none;
+  color:black;
+}
+
+#pricing {
+  background-color: #10375c;
+  color: black;
+}
+
+.pricing-column {
+  background-color:#10375c;
+}
+
+.press-logo {
+  width:8%;
+  margin:20px auto 20px 50px;
+  color: black;
+}
+
+
+/* pricing section */
+
+#pricing {
+  padding: 75px;
+  text-align: center;
+  color: white
+}
+
+.pricing-column {
+  padding: 3% 2%;
+  color: black;
+}
